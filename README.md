@@ -1,3 +1,5 @@
+[Demo](https://followuprepos.github.io/rock-paper-scissors/)
+
 1. `git diff` = "difference" 
     * shows in red changed or deleted lines
     * shows in green new lines
